@@ -1,11 +1,7 @@
-# Husky
-[![Build Status](https://api.travis-ci.org/FWGS/Husky.svg?branch=develop)](https://travis-ci.org/FWGS/Husky)\
+# Glimmer
 
-[![Download F-Droid](https://img.shields.io/badge/download-fdroid-blue)](https://f-droid.org/repository/browse/?fdid=su.xash.husky) [![Download Google Play](https://img.shields.io/badge/download-googleplay-blue)](https://play.google.com/store/apps/details?id=su.xash.husky) [![Download Testing](https://img.shields.io/badge/downloads-testing-green)](https://github.com/FWGS/Husky/releases/tag/continuous)
 
-![icon](https://git.mentality.rip/FWGS/Husky/raw/branch/develop/assets/splash.xcf)
-
-Husky is a fork of [Tusky](https://github.com/tuskyapp/Tusky) that aimed to support [Pleroma's Mastodon API extensions](https://git.pleroma.social/pleroma/pleroma/blob/develop/docs/API/differences_in_mastoapi_responses.md) and some ideas that I may come up with.
+Glimmer is a fork of [Tusky](https://github.com/tuskyapp/Tusky) that aims to support [Pleroma's Mastodon API extensions](https://git.pleroma.social/pleroma/pleroma/blob/develop/docs/API/differences_in_mastoapi_responses.md)
 
 Tusky is quote, unquote, `... a beautiful Android client for [Mastodon](https://github.com/tootsuite/mastodon). Mastodon is an ActivityPub federated social network. That means no single entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.`
 
@@ -31,4 +27,3 @@ For translating Tusky into your language, visit https://weblate.tusky.app/. For 
 
 This app was developed by [Vavassor@mastodon.social](https://mastodon.social/@Vavassor).
 The Tusky's maintainer is [ConnyDuck@chaos.social](https://chaos.social/@ConnyDuck).
-The fork main developer is [a1batross@expired.mentality.rip](https://expired.mentality.rip/users/a1batross).
