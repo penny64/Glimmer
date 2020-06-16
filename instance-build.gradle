@@ -4,10 +4,10 @@ Note: Publishing a custom build on Google Play may violate the Google Play devel
  */
 
 // The app name
-ext.APP_NAME = "Husky"
+ext.APP_NAME = "Glimmer"
 
 // The application id. Must be unique, e.g. based on your domain
-ext.APP_ID = "su.xash.husky"
+ext.APP_ID = "limited.ideas.Glimmer"
 
 // url of a custom app logo. Recommended size at least 600x600. Keep empty to use the Tusky elephant friend.
 ext.CUSTOM_LOGO_URL = ""
@@ -16,4 +16,4 @@ ext.CUSTOM_LOGO_URL = ""
 ext.CUSTOM_INSTANCE = ""
 
 // link to your support account. Will be linked on the about page when not empty.
-ext.SUPPORT_ACCOUNT_URL = "https://enigmatic.observer/users/Husky"
+ext.SUPPORT_ACCOUNT_URL = "https://www.librepunk.club/web/accounts/48476"
