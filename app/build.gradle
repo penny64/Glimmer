@@ -16,7 +16,7 @@ def getGitSha = {
 
 def buildnum = {
     def today = new Date()
-    def epoch = new Date(119, 11, 8) // first Husky commit was 20191208
+    def epoch = new Date(119, 11, 8) // first commit was 20191208
     return today - epoch
 }
 

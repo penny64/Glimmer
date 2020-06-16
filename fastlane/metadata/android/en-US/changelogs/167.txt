@@ -1,4 +1,3 @@
-Husky v1.0
 
 First stable release. 
 This release adds several Pleroma extensions support:

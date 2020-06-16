@@ -1,7 +1,7 @@
 <!--Issue text goes here.-->
 
 * * * *
-- Husky Version:
+-  Version:
 - Android Version:
 - Android Device:
 - Fediverse instance (if applicable):

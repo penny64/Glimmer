@@ -1,1 +1,1 @@
-Husky это клиент для социальных сетей Pleroma и Mastodon
+G это клиент для социальных сетей Pleroma и Mastodon
