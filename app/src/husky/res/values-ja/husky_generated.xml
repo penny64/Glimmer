@@ -1,20 +1,20 @@
 <resources>
   
-    <string name="about_tusky_version">Husky %s</string>
+    <string name="about_tusky_version">Glimmer %s</string>
   
   
-    <string name="about_tusky_license">Huskyは無料のオープンソースソフトウェアです。<!--
+    <string name="about_tusky_license">Glimmerは無料のオープンソースソフトウェアです。<!--
      -->GNU General Public License Version 3 の下で使用許諾されています。<!--
      -->ライセンスはここからご覧いただけます： https://www.gnu.org/licenses/gpl-3.0.ja.html</string>
   
   
-    <string name="about_tusky_account">Husky公式アカウント</string>
+    <string name="about_tusky_account">Glimmer公式アカウント</string>
   
   
-    <string name="restart_emoji">これらの変更を適用するには、Huskyの再起動が必要になります</string>
+    <string name="restart_emoji">これらの変更を適用するには、Glimmerの再起動が必要になります</string>
   
   
-    <string name="license_description">Huskyは、以下のオープンソース プロジェクトからのコードとアセットを含んでいます:</string>
+    <string name="license_description">Glimmerは、以下のオープンソース プロジェクトからのコードとアセットを含んでいます:</string>
   
 
 
@@ -28,7 +28,7 @@
 
   
     <string name="about_bug_feature_request_site">        バグ報告 &amp; 機能リクエスト（英語）：\n
-        https://git.mentality.rip/FWGS/Husky/issues
+        https://git.mentality.rip/FWGS/Glimmer/issues
     </string>
   
 

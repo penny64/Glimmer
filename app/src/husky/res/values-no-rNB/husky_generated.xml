@@ -1,21 +1,21 @@
 <resources>
   
-    <string name="about_tusky_version">Husky %s</string>
+    <string name="about_tusky_version">Glimmer %s</string>
   
   
-    <string name="about_tusky_account">Huskys Mastodon-profil</string>
+    <string name="about_tusky_account">Glimmers Mastodon-profil</string>
   
   
-    <string name="about_tusky_license">Husky er fri og åpen kildekode. Applikasjonen er lisensiert under GNU General Public License versjon 3. Du kan se lisensen her: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
+    <string name="about_tusky_license">Glimmer er fri og åpen kildekode. Applikasjonen er lisensiert under GNU General Public License versjon 3. Du kan se lisensen her: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
   
   
-    <string name="restart_emoji">Du må starte Husky på nytt for at endringene skal bli aktive</string>
+    <string name="restart_emoji">Du må starte Glimmer på nytt for at endringene skal bli aktive</string>
   
   
-    <string name="license_description">Husky inneholder programkode og elementer fra følgende åpen kildekode-prosjekter:</string>
+    <string name="license_description">Glimmer inneholder programkode og elementer fra følgende åpen kildekode-prosjekter:</string>
   
   
-    <string name="about_powered_by_tusky">Drevet av Husky</string>
+    <string name="about_powered_by_tusky">Drevet av Glimmer</string>
   
 
 
@@ -28,7 +28,7 @@
 
   
     <string name="about_bug_feature_request_site">Rapporter feil og ønsker om funksjonalitet her: 
-\n https://git.mentality.rip/FWGS/Husky/issues</string>
+\n https://git.mentality.rip/FWGS/Glimmer/issues</string>
   
 
 

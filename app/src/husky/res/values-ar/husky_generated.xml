@@ -15,7 +15,7 @@
     <string name="license_description">يحتوي توسكي على شيفرة وأوصول صادرة مِن المشاريع المفتوحة التالية :</string>
   
   
-    <string name="about_powered_by_tusky">مدعوم بِـ Husky</string>
+    <string name="about_powered_by_tusky">مدعوم بِـ Glimmer</string>
   
 
 
@@ -28,7 +28,7 @@
 
   
     <string name="about_bug_feature_request_site">تقارير الأخطاء و طلبات التحسينات على  :\n
-                   https://git.mentality.rip/FWGS/Husky/issues</string>
+                   https://git.mentality.rip/FWGS/Glimmer/issues</string>
   
 
 

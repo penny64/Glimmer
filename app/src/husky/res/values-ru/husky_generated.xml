@@ -1,23 +1,23 @@
 <resources>
   
-    <string name="about_tusky_version">Husky %s</string>
+    <string name="about_tusky_version">Glimmer %s</string>
   
   
-    <string name="about_tusky_license">Husky – это бесплатное приложение с открытым исходным кодом.
+    <string name="about_tusky_license">Glimmer – это бесплатное приложение с открытым исходным кодом.
         Выпускается по лицензии GNU General Public License Version 3.
         Вы можете прочитать текст лицензии по ссылке: https://www.gnu.org/licenses/gpl-3.0.ru.html</string>
   
   
-    <string name="about_tusky_account">Профиль Husky</string>
+    <string name="about_tusky_account">Профиль Glimmer</string>
   
   
-    <string name="restart_emoji">Вам нужно перезапустить Husky для применения изменений</string>
+    <string name="restart_emoji">Вам нужно перезапустить Glimmer для применения изменений</string>
   
   
-    <string name="license_description">Husky содержит код и элементы из следующих приложений с открытым исходным кодом:</string>
+    <string name="license_description">Glimmer содержит код и элементы из следующих приложений с открытым исходным кодом:</string>
   
   
-    <string name="about_powered_by_tusky">Под управлением Husky</string>
+    <string name="about_powered_by_tusky">Под управлением Glimmer</string>
   
 
 
@@ -32,7 +32,7 @@
   
     <string name="about_bug_feature_request_site">
             Отчеты об ошибках и пожелания:\n
-            https://git.mentality.rip/FWGS/Husky/issues</string>
+            https://git.mentality.rip/FWGS/Glimmer/issues</string>
   
 
 

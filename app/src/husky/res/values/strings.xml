@@ -85,9 +85,9 @@
     <string name="title_view_thread">Post</string>
     
     <!-- 
-    <string name="about_tusky_version">Husky %s</string>
-    <string name="about_powered_by_tusky">Powered by Husky</string>
-    <string name="about_tusky_license">Husky is free and open-source software.
+    <string name="about_tusky_version">Glimmer %s</string>
+    <string name="about_powered_by_tusky">Powered by Tusky</string>
+    <string name="about_tusky_license">Glimmer is free and open-source software.
         It is licensed under the GNU General Public License Version 3.
     You can view the license here: https://www.gnu.org/licenses/gpl-3.0.en.html</string> -->
     <!-- note to translators:
@@ -98,15 +98,15 @@
     --> <!-- 
     <string name="about_project_site">
         Project website:\n
-        https://husky.fwgs.ru
+        Test
     </string>
     <string name="about_bug_feature_request_site">
         Bug reports &amp; feature requests:\n
-        https://git.mentality.rip/FWGS/Husky/issues
+        https://git.mentality.rip/FWGS/Glimmer/issues
     </string>
-    <string name="about_tusky_account">Husky\'s Profile</string>
-    <string name="restart_emoji">You\'ll need to restart Husky in order to apply these changes</string>
-    <string name="license_description">Husky contains code and assets from the following open source projects:</string>
+    <string name="about_tusky_account">Glimmer\'s Profile</string>
+    <string name="restart_emoji">You\'ll need to restart Glimmer in order to apply these changes</string>
+    <string name="license_description">Glimmer contains code and assets from the following open source projects:</string>
     <string name="add_account_description">Add new Fediverse Account</string>
     <string name="action_login">Login!</string>
     

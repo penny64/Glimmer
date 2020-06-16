@@ -1,23 +1,23 @@
 <resources>
   
-    <string name="about_tusky_license">Husky ist freie Open-Source-Software.
+    <string name="about_tusky_license">Glimmer ist freie Open-Source-Software.
         Es ist lizenziert unter der GNU General Public License Version 3.
         Du kannst dir die Lizenz hier anschauen: https://www.gnu.org/licenses/gpl-3.0.de.html</string>
   
   
-    <string name="about_tusky_account">Huskys Profil</string>
+    <string name="about_tusky_account">Glimmers Profil</string>
   
   
-    <string name="restart_emoji">Du musst Husky neustarten um die Änderungen anzuwenden</string>
+    <string name="restart_emoji">Du musst Glimmer neustarten um die Änderungen anzuwenden</string>
   
   
-    <string name="license_description">Husky enthält Code und Inhalte von den folgenden Open-Source-Projekten:</string>
+    <string name="license_description">Glimmer enthält Code und Inhalte von den folgenden Open-Source-Projekten:</string>
   
   
-    <string name="about_tusky_version">Husky %s</string>
+    <string name="about_tusky_version">Glimmer %s</string>
   
   
-    <string name="about_powered_by_tusky">Powered by Husky</string>
+    <string name="about_powered_by_tusky">Powered by Glimmer</string>
   
 
 
@@ -31,7 +31,7 @@
 
   
     <string name="about_bug_feature_request_site">        Fehlermeldungen &amp; Verbesserungsvorschläge:\n
-        https://git.mentality.rip/FWGS/Husky/issues
+        https://git.mentality.rip/FWGS/Glimmer/issues
     </string>
   
 

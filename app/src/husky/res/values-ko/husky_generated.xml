@@ -1,18 +1,18 @@
 <resources>
   
-    <string name="about_tusky_version">Husky %s</string>
+    <string name="about_tusky_version">Glimmer %s</string>
   
   
-    <string name="about_tusky_license">Husky는 무료이며 오픈 소스입니다. 이 프로젝트는 GNU General Public License Version 3에 의해 배포됩니다. 이 페이지에서 라이선스 전문(영문)을 열람하실 수 있습니다: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
+    <string name="about_tusky_license">Glimmer는 무료이며 오픈 소스입니다. 이 프로젝트는 GNU General Public License Version 3에 의해 배포됩니다. 이 페이지에서 라이선스 전문(영문)을 열람하실 수 있습니다: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
   
   
-    <string name="about_tusky_account">Husky 공식 계정</string>
+    <string name="about_tusky_account">Glimmer 공식 계정</string>
   
   
-    <string name="restart_emoji">변경 사항을 적용하려면 Husky를 재시작해야 합니다</string>
+    <string name="restart_emoji">변경 사항을 적용하려면 Glimmer를 재시작해야 합니다</string>
   
   
-    <string name="license_description">Husky에는 다음 오픈 소스 프로젝트의 요소/코드를 일부 활용하였습니다:</string>
+    <string name="license_description">Glimmer에는 다음 오픈 소스 프로젝트의 요소/코드를 일부 활용하였습니다:</string>
   
 
 
@@ -25,7 +25,7 @@
 
   
     <string name="about_bug_feature_request_site">버그 신고/건의사항:
-\n https://git.mentality.rip/FWGS/Husky/issues</string>
+\n https://git.mentality.rip/FWGS/Glimmer/issues</string>
   
 
 
