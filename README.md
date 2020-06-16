@@ -19,11 +19,13 @@ Tusky is quote, unquote, `... a beautiful Android client for [Mastodon](https://
 
 ### Support
 
-If you have any bug reports, feature requests or questions please open an issue or send us a post at [Husky@enigmatic.observer](https://enigmatic.observer/users/Husky)!
+If you have any bug reports, feature requests or questions please contact me at https://www.librepunk.club/web/accounts/48476
 
-For translating Tusky into your language, visit https://weblate.tusky.app/. For translating Husky, translate app/src/main/res/values/husky.xml file and send it to profile above or send a pull request.
+For translating Tusky into your language, visit https://weblate.tusky.app/. For translating Glimmer, translate app/src/main/res/values/husky.xml file and send it to profile above or send a pull request.
 
 ### Head of development
 
 This app was developed by [Vavassor@mastodon.social](https://mastodon.social/@Vavassor).
 The Tusky's maintainer is [ConnyDuck@chaos.social](https://chaos.social/@ConnyDuck).
+
+Icons made by https://www.flaticon.com/authors/freepik
